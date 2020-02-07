@@ -1,11 +1,10 @@
 body {
-    background: rgb(124,182,186);
+background: rgb(124,182,186);
 background: linear-gradient(0deg, rgba(124,182,186,1) 16%, rgba(191,191,191,1) 99%);
-font-family:  'Calibri', sans-serif;
-}
 
-html {
-    scroll-behavior: smooth;
+font-family:  'Calibri', sans-serif;
+
+
 }
 /* header section */
 header {
@@ -15,8 +14,9 @@ header {
     max-height: 100%;
     margin: 0 auto;
     /* text-align: center; */
-
+    
 }
+
 
 
 
@@ -39,11 +39,11 @@ header {
     margin-right: 5%;
     margin-left: 5%;
     margin-top: 0;
-    margin-bottom: 1rem;
+    margin-bottom: 4.5rem;
     max-width: 100%;
     max-height: 100%;
     overflow: none;
-    font-size: 25px;
+    
 }
 .section {
     display: flex;
@@ -54,6 +54,7 @@ header {
 .p3 {
     margin-right: 5%;
     margin-left: 5%;
+    
 }
 
 
